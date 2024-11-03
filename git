@@ -1,1 +1,4 @@
-This are the commands related to the git
+This are the commands related to the git.
+git init
+git add .
+git commit -m "changed the routes"
