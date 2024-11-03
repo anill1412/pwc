@@ -2,3 +2,6 @@ This are the commands related to the git.
 git init
 git add .
 git commit -m "changed the routes"
+git remote add origin link-> https://github.com/anill1412/pwc.git
+git push origin master/main/branch
+
